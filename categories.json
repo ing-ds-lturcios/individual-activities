@@ -8,7 +8,7 @@
     "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
   },
   {
-    "category": "Programación",
+    "category": "Programacion",
     "description": "Preguntas relacionadas con los fundamentos de programación, independiente al lenguaje."
   },
   {
@@ -20,7 +20,7 @@
     "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "Arte",
+    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
   }
 ]
