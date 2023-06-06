@@ -1,0 +1,11 @@
+{
+  "category": "Programacion",
+  "question": "¿Qué significa HTML?",
+  "options": [
+    "Hypertext Markup Language",
+    "Hyperlink and Text Markup Language",
+    "Home Tool Markup Language"
+  ],
+  "answer": 0,
+  "explanation": "HTML es el lenguaje de marcado estándar utilizado para crear páginas web y describe la estructura y el contenido de una página utilizando etiquetas y elementos."
+}
