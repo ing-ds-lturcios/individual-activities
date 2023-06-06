@@ -1,0 +1,185 @@
+[
+  {
+  "category": "Cultura",
+  "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
+  "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
+  "answer": 0,
+  "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
+},
+{
+  "category": "Programacion",
+  "question": "¿Qué significa HTML?",
+  "options": [
+    "Hypertext Markup Language",
+    "Hyperlink and Text Markup Language",
+    "Home Tool Markup Language"
+  ],
+  "answer": 0,
+  "explanation": "HTML es el lenguaje de marcado estándar utilizado para crear páginas web y describe la estructura y el contenido de una página utilizando etiquetas y elementos."
+},
+{
+  "category": "Programacion",
+  "question": "¿Qué lenguaje de programación se utiliza principalmente para el desarrollo de aplicaciones móviles nativas en iOS?",
+  "options": [
+    "Swift",
+    "Java",
+    "C#"
+  ],
+  "answer": 0,
+  "explanation": "Swift es el lenguaje de programación desarrollado por Apple y se utiliza para crear aplicaciones nativas en iOS, macOS, watchOS y tvOS."
+},
+{
+  "category": "Programacion",
+  "question": "¿Cuál de los siguientes no es un paradigma de programación?",
+  "options": [
+    "Orientación a Objetos",
+    "Programación Funcional",
+    "Lógica Binaria"
+  ],
+  "answer": 2,
+  "explanation": "Los paradigmas de programación se refieren a enfoques o estilos de programación, y aunque la lógica binaria es fundamental para la computación, no se considera un paradigma de programación en sí mismo."
+}, 
+{
+  "category": "Programacion",
+  "question": "¿Qué tipo de estructura de datos utiliza el principio de 'último en entrar, primero en salir'?",
+  "options": [
+    "Cola (Queue)",
+    "Pila (Stack)",
+    "Lista Enlazada (Linked List)"
+  ],
+  "answer": 1,
+  "explanation": "Una pila es una estructura de datos en la que el último elemento en ser insertado es el primero en ser eliminado, siguiendo el principio de 'último en entrar, primero en salir'."
+},
+{
+  "category": "Programacion",
+  "question": "¿Cuál de los siguientes lenguajes de programación se utiliza comúnmente para el desarrollo web del lado del servidor?",
+  "options": [
+    "HTML",
+    "CSS",
+    "Python"
+  ],
+  "answer": 2,
+  "explanation": "Python es un lenguaje de programación versátil que se utiliza ampliamente para el desarrollo web del lado del servidor junto con frameworks como Django y Flask."
+},
+{
+  "category": "Programacion",
+  "question": "¿Qué es un bucle 'for'?",
+  "options": [
+    "Una estructura de control utilizada para repetir una serie de instrucciones un número específico de veces",
+    "Una declaración que define una función en programación",
+    "Un operador que compara dos valores y devuelve un resultado booleano"
+  ],
+  "answer": 0,
+  "explanation": "Un bucle 'for' es una estructura de control utilizada en programación para repetir una serie de instrucciones un número específico de veces, generalmente utilizando una variable de control que se incrementa o decrementa en cada iteración."
+},
+  {
+  "category": "Deportes",
+  "question": "¿Cuál fue el país anfitrión de la Copa Mundial de la FIFA 2018?",
+  "options": [
+    "Brasil",
+    "Rusia",
+    "Francia"
+  ],
+  "answer": 1,
+  "explanation": "La Copa Mundial de la FIFA 2018 se llevó a cabo en Rusia y fue ganada por Francia."
+},
+  {
+  "category": "Deportes",
+  "question": "¿Quién es el máximo goleador de la historia de la selección brasileña de fútbol?",
+  "options": [
+    "Pelé",
+    "Romário",
+    "Neymar"
+  ],
+  "answer": 0,
+  "explanation": "Pelé es considerado uno de los mejores futbolistas de todos los tiempos y anotó un récord de 77 goles en partidos oficiales con la selección brasileña."
+},
+  {
+  "category": "Deportes",
+  "question": "¿Cuál es el equipo de fútbol más exitoso en la historia de la UEFA Champions League?",
+  "options": [
+    "Real Madrid",
+    "FC Barcelona",
+    "Bayern de Múnich"
+  ],
+  "answer": 0,
+  "explanation": "El Real Madrid ha ganado la UEFA Champions League en múltiples ocasiones, siendo el equipo más exitoso en la historia del torneo con 14 títulos."
+},
+  {
+  "category": "Deportes",
+  "question": "¿Cuál es el jugador de fútbol con más Balones de Oro en la historia?",
+  "options": [
+    "Lionel Messi",
+    "Cristiano Ronaldo",
+    "Diego Maradona"
+  ],
+  "answer": 0,
+  "explanation": "Hasta la fecha, Lionel Messi ha ganado el Balón de Oro en siete ocasiones, más que cualquier otro jugador en la historia."
+},
+  {
+  "category": "Deportes",
+  "question": "¿Cuál es el país con más Copas Mundiales de la FIFA ganadas?",
+  "options": [
+    "Brasil",
+    "Italia",
+    "Alemania"
+  ],
+  "answer": 0,
+  "explanation": "La selección brasileña de fútbol ha ganado la Copa Mundial de la FIFA en cinco ocasiones, más que cualquier otro país."
+},
+  {
+  "category": "Arte",
+  "question": "¿Quién pintó la famosa obra 'La última cena'?",
+  "options": [
+    "Leonardo da Vinci",
+    "Pablo Picasso",
+    "Vincent van Gogh"
+  ],
+  "answer": 0,
+  "explanation": "'La última cena' es una de las obras más reconocidas de da Vinci y se encuentra en el convento de Santa Maria delle Grazie en Milán, Italia."
+},
+  {
+  "category": "Arte",
+  "question": "¿Cuál de los siguientes artistas es conocido por su técnica de puntillismo?",
+  "options": [
+    "Georges Seurat",
+    "Salvador Dalí",
+    "Frida Kahlo"
+  ],
+  "answer": 0,
+  "explanation": "El puntillismo es una técnica de pintura en la que se utilizan pequeños puntos de color para crear una imagen en conjunto, y Seurat fue uno de los principales exponentes de este estilo."
+}, 
+  {
+  "category": "Arte",
+  "question": "¿Cuál de las siguientes esculturas es considerada una de las Siete Maravillas del Mundo Antiguo?",
+  "options": [
+    "La Estatua de Zeus en Olimpia",
+    "El David de Miguel Ángel",
+    "La Venus de Milo"
+  ],
+  "answer": 0,
+  "explanation": "Esta escultura monumental, creada por Fidias en la antigua Grecia, fue considerada una de las Siete Maravillas del Mundo Antiguo, aunque actualmente no se conserva."
+}, 
+  {
+  "category": "Arte",
+  "question": "¿Quién es el autor de la famosa pintura 'La noche estrellada'?",
+  "options": [
+    "Vincent van Gogh",
+    "Leonardo da Vinci",
+    "Pablo Picasso"
+  ],
+  "answer": 0,
+  "explanation": "'La noche estrellada' es una de las obras más conocidas de van Gogh y refleja su estilo distintivo y su representación emocional de la naturaleza."
+},
+  {
+  "category": "Arte",
+  "question": "¿Quién es el autor de la famosa escultura 'El Pensador'?",
+  "options": [
+    "Auguste Rodin",
+    "Michelangelo",
+    "Donatello"
+  ],
+  "answer": 0,
+  "explanation": "'El Pensador' es una de las esculturas más reconocidas de Rodin y representa a un hombre en actitud de profunda reflexión. La obra es parte del conjunto escultórico 'Las puertas del infierno'."
+}
+]
