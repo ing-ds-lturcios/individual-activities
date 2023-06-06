@@ -8,8 +8,8 @@
     "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Programación",
+    "description": "Preguntas relacionadas con los fundamentos de programación, independiente al lenguaje."
   },
   {
     "category": "Cine",
