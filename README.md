@@ -36,6 +36,7 @@ Sube estos archivos a tu repositorio y modifica el contenido para que tengan cat
 ## Clase 07
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 * [1) Progama que permite ingresar 'n' números y luego: Muestra números, da el menor, da el mayor y promedio.](https://github.com/ing-ds-lturcios/individual-activities/tree/main/clase07/EntrarMostrarNumeros.java)
+* [2) Progama que permite ingresar 15 palabras y devuelve la más repetida y la cantidad de repeticiones.](https://github.com/ing-ds-lturcios/individual-activities/tree/main/clase07/EjercicioLucas.java)
 
 
 [Ir a Folder](https://github.com/ing-ds-lturcios/individual-activities/tree/main/clase07)
