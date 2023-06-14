@@ -40,3 +40,12 @@ Sube estos archivos a tu repositorio y modifica el contenido para que tengan cat
 
 
 [Ir a Folder](https://github.com/ing-ds-lturcios/individual-activities/tree/main/clase07)
+
+## Clase 08
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+* [1) Progama que permite calcular el área de una figura (triángulo, cuadrado, rectángulo).](https://github.com/ing-ds-lturcios/individual-activities/blob/main/clase08/CalcularArea.java)
+* [2) Programa que permite generar un password, solicita dos parámetros al usuario: longitud y complejidad.](https://github.com/ing-ds-lturcios/individual-activities/blob/main/clase08/GenerarPassword.java)
+* [3) Programa que pide n números, solicita cantidad de números y luego cada valor (usando funciones).](https://github.com/ing-ds-lturcios/individual-activities/blob/main/clase08/IngresarMostrarNumerosFunc.java)
+
+
+[Ir a Folder](https://github.com/ing-ds-lturcios/individual-activities/tree/main/clase08)
